@@ -1,4 +1,4 @@
-# BSc Physics Mathematical Physics Practical (4th Semester)
+# BSc Physics Mathematical Physics Practical For WBSU(4th Semester)
 
 Welcome to the GitHub repository for the BSc Physics Mathematical Physics Practical of the 4th semester. This repository contains Python code implementations of various numerical methods and algorithms used in mathematical physics. These codes are aimed at assisting upcoming students and friends who are studying or interested in this subject.
 
